@@ -1,3 +1,3 @@
 # The Carolina Programming Language
 
-A programming language written in DragonForge.
+A programming language written using DragonForge.
